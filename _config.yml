@@ -2,7 +2,7 @@
 title: 某地市民姚先生
 SEOTitle: 某地市民姚先生
 header-img: img/home-bg.jpg
-email: prc49101@outlook.com
+email: mdsmyxs@outlook.com
 description: "这里是@某地市民姚先生的主页"
 keyword: ""
 url: "https://mdsmyxs.github.io" # your host, for absolute URL
@@ -18,7 +18,7 @@ zhihu_username:
 github_username: mdsmyxs
 twitter_username: 
 bilibili_username: 3546719547558136
-#facebook_username:  huxpro
+#facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -92,5 +92,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "查询户籍", href: "https://mx5opiezw73.feishu.cn/share/base/query/shrcnD714KiuML1KaC1Gp0LLlfe" },
+    { title: "本站由雨云提供计算服务", href: "https://www.rainyun.cn/" },
   ]
