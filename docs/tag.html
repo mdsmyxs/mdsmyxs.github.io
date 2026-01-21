@@ -235,7 +235,7 @@ function updateShowTag(label){
 function setClassDisplay(label){
     let lists = document.getElementsByClassName("lists");
     let tagTitle = document.getElementsByClassName("tagTitle")[0];
-    tagTitle.innerHTML="Tag #"+label;
+    tagTitle.innerHTML="标签 #"+label;
     document.title=label+" - 某地市民姚先生";
     document.getElementsByClassName("subnav-search-input")[0].value='';
     if(label=="All"){
@@ -263,7 +263,7 @@ function searchShow(){
     let lists = document.getElementsByClassName("lists");
     let tagTitle = document.getElementsByClassName("tagTitle")[0];
     let searchInput = document.getElementsByClassName("subnav-search-input")[0].value;
-    tagTitle.innerHTML="Search #"+searchInput;
+    tagTitle.innerHTML="站内搜索 #"+searchInput;
     if(searchInput==''){document.title="Search - 某地市民姚先生";}
     else{document.title=searchInput+" - 某地市民姚先生";}
     let a=0;
@@ -275,7 +275,7 @@ function searchShow(){
     if(a==0){
         let notFind=document.getElementsByClassName("notFind")[0];
         notFind.style.display='block';
-        notFind.innerHTML='Not Find "'+searchInput+'"';
+        notFind.innerHTML='没有找到 "'+searchInput+'"';
     }
     else{document.getElementsByClassName("notFind")[0].style.display='none';}
 }
