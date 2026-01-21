@@ -2,15 +2,11 @@
     "title":"某地市民姚先生",
     "subTitle":"Mdsmyxs",
     "avatarUrl":"https://avatars.githubusercontent.com/u/223970481",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "singlePage":["about","link"],
     "startSite":"01/21/2026",
-    "filingNum":"辽ICP备20260121号",
     "onePageListNum":10,
-    "iconList":{},
-    "exlink":{},
     "urlMode":"pinyin",
     "showPostSource":1,
-    "rssSplit":"sentence",
-    "bottomText":"转载请注明出处",
     "needComment":1
 }
