@@ -107,7 +107,7 @@ export default hopeTheme({
     // revealjs: {
     //   plugins: ["highlight", "math", "search", "notes", "zoom"],
     // },
-9
+
     // 在启用之前安装 chart.js
     // chartjs: true,
 
