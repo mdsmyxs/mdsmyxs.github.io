@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "某地市民姚先生",
-    url: "https://mdsmyxs.github.io",
+    url: "https://blog.mdsmyxs.top",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
@@ -24,7 +24,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "mdsmyxs.github.io 欢迎您的访问",
+  footer: "blog.mdsmyxs.top 欢迎您的访问",
   displayFooter: true,
 
   // 博客相关
@@ -107,7 +107,7 @@ export default hopeTheme({
     // revealjs: {
     //   plugins: ["highlight", "math", "search", "notes", "zoom"],
     // },
-
+9
     // 在启用之前安装 chart.js
     // chartjs: true,
 
