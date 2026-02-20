@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://mdsmyxs.github.io/sitemap.xml
